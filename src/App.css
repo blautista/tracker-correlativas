@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  padding: 8px;
+  border: 1px solid lightgray;
+}
+
+th {
+  text-align: left;
+  padding: 8px;
+  border: 1px solid lightgray;
+}
